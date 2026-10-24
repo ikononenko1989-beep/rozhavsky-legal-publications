@@ -1,0 +1,56 @@
+{
+  "publisher": "РОЖАВСКИЙ ЛИГАЛ",
+  "published_date": "2026-10-24",
+  "documents": [
+    {
+      "id": "legal-main",
+      "title": "Юридический аутсорсинг для бизнеса: какие задачи передать внешнему юристу",
+      "publisher": "РОЖАВСКИЙ ЛИГАЛ",
+      "file": "pdf/rozhavsky-legal-yuridicheskiy-autsorsing.pdf",
+      "bytes": 532601,
+      "pages": 3,
+      "sha256": "e4e0da6be7b7303f2fa8fd4c33bdba6ed770dc824cda8b6c573432ded6b95022",
+      "source_url": "https://xn--80aafemoahhmdzzs.xn--p1ai/materials/pdf-20261015/yuridicheskiy-autsorsing.pdf"
+    },
+    {
+      "id": "bank",
+      "title": "Что проверить перед ответом на запрос банка по 115-ФЗ",
+      "publisher": "РОЖАВСКИЙ ЛИГАЛ",
+      "file": "pdf/rozhavsky-legal-otvet-banku-115-fz.pdf",
+      "bytes": 91065,
+      "pages": 3,
+      "sha256": "ec3551bc7a7fcfeef06ac1a0636f65ac02c74b06d0b622e6460ad96c9dcf5678",
+      "source_url": "https://otvet-banku-rl.netlify.app/materials/pdf-20261015/otvet-na-zapros-banka-115-fz.pdf"
+    },
+    {
+      "id": "apartment",
+      "title": "Перед авансом за квартиру: документы и вопросы для первого разбора",
+      "publisher": "РОЖАВСКИЙ ЛИГАЛ",
+      "file": "pdf/rozhavsky-legal-pered-avansom-kvartira.pdf",
+      "bytes": 89033,
+      "pages": 3,
+      "sha256": "2c7b5d825af51b7f113297a505de774c350a8f908acab3f20b8e8f4350c60b48",
+      "source_url": "https://pered-avansom-rl.netlify.app/materials/pdf-20261015/pered-avansom-dokumenty.pdf"
+    },
+    {
+      "id": "debt",
+      "title": "Неоплаченная поставка или услуги: как собрать документы по спору",
+      "publisher": "РОЖАВСКИЙ ЛИГАЛ",
+      "file": "pdf/rozhavsky-legal-neoplachennyy-dogovor.pdf",
+      "bytes": 91502,
+      "pages": 3,
+      "sha256": "d0e6b6dfb000411a90248c27c3863329e82f03c2a5af00fc88f91f927916ddcf",
+      "source_url": "https://oplata-po-dogovoru-rl.netlify.app/materials/pdf-20261015/neoplachennyy-dogovor-dokumenty.pdf"
+    },
+    {
+      "id": "leasing",
+      "title": "Юрист по лизингу для лизингополучателя",
+      "publisher": "РОЖАВСКИЙ ЛИГАЛ",
+      "file": "pdf/rozhavsky-legal-lizing-lizingopoluchatel.pdf",
+      "bytes": 532741,
+      "pages": 4,
+      "sha256": "4844faf6ade452d170b2fd6bc0248d9b98ddaad51e27d8986893b502ae02adc7",
+      "source_url": "https://xn--80aafemoahhmdzzs.xn--p1ai/materials/pdf-20261015-lizing/lizing-podgotovka-k-razboru.pdf"
+    }
+  ]
+}
